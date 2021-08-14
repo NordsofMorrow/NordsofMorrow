@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NordsofMorrow (twitch.tv/NordsofMorrow)
+- 👋 Hi, I’m @NordsofMorrow ([twitch.tv/NordsofMorrow](https://www.twitch.tv/nordsofmorrow))
 - 👀 I’m interested in The Elder Scrolls series, the Fallout series, and old-school RPGs
 - 🌱 I’m currently learning Rust-Lang!
 - 💞️ I’m looking to collaborate on streams and projects!
